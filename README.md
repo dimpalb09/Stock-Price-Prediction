@@ -1,5 +1,5 @@
-# ML-projects
-Stock Price Prediction
+
+# Stock Price Prediction
  This repository contains a Jupyter Notebook for predicting stock prices using historical data fetched from Yahoo Finance (yfinance).
 
 #	Features:-
